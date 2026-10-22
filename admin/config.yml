@@ -6,7 +6,7 @@ locale: ko
 site_url: /
 display_url: /#gallery
 
-media_folder: livingchurch-site_v2/img/uploads
+media_folder: img/uploads
 public_folder: /img/uploads
 
 collections:
@@ -17,7 +17,7 @@ collections:
     files:
       - name: posts
         label: 갤러리 포스팅
-        file: livingchurch-site_v2/data/gallery.json
+        file: data/gallery.json
         fields:
           - label: 포스팅 목록
             name: posts
