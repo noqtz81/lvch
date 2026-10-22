@@ -1,0 +1,34 @@
+backend:
+  name: git-gateway
+  branch: main
+
+locale: ko
+site_url: /
+display_url: /#gallery
+
+media_folder: img/uploads
+public_folder: /img/uploads
+
+collections:
+  - name: gallery
+    label: 갤러리
+    editor:
+      preview: false
+    files:
+      - name: posts
+        label: 갤러리 포스팅
+        file: data/gallery.json
+        fields:
+          - label: 포스팅 목록
+            name: posts
+            widget: list
+            label_singular: 포스팅
+            add_to_top: true
+            summary: "{{fields.date}} · {{fields.title}}"
+            fields:
+              - { label: 제목, name: title, widget: string }
+              - { label: 날짜, name: date, widget: datetime, format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
+              - label: 사진 (첫 장이 대표 사진)
+                name: photos
+                widget: list
+                field: { label: 사진, name: photo, widget: image, choose_url: false }

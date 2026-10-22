@@ -1,0 +1,88 @@
+{
+  "posts": [
+    {
+      "title": "길거리 전도",
+      "date": "2026-10-11",
+      "photos": [
+        "/img/gallery/p1_1.jpg",
+        "/img/gallery/p1_2.jpg",
+        "/img/gallery/p1_3.jpg",
+        "/img/gallery/p1_4.jpg",
+        "/img/gallery/p1_5.jpg",
+        "/img/gallery/p1_6.jpg"
+      ]
+    },
+    {
+      "title": "가을운동회",
+      "date": "2026-10-09",
+      "photos": [
+        "/img/gallery/p2_1.jpg",
+        "/img/gallery/p2_2.jpg",
+        "/img/gallery/p2_3.jpg",
+        "/img/gallery/p2_4.jpg",
+        "/img/gallery/p2_5.jpg",
+        "/img/gallery/p2_6.jpg"
+      ]
+    },
+    {
+      "title": "리빙워십",
+      "date": "2026-10-04",
+      "photos": [
+        "/img/gallery/p3_1.jpg",
+        "/img/gallery/p3_2.jpg",
+        "/img/gallery/p3_3.jpg",
+        "/img/gallery/p3_4.jpg",
+        "/img/gallery/p3_5.jpg",
+        "/img/gallery/p3_6.jpg"
+      ]
+    },
+    {
+      "title": "유니버셜프로젝트2 어썸리빙",
+      "date": "2026-09-20",
+      "photos": [
+        "/img/gallery/p4_1.jpg",
+        "/img/gallery/p4_2.jpg",
+        "/img/gallery/p4_3.jpg",
+        "/img/gallery/p4_4.jpg",
+        "/img/gallery/p4_5.jpg",
+        "/img/gallery/p4_6.jpg"
+      ]
+    },
+    {
+      "title": "유니버셜프로젝트2 어썸리빙",
+      "date": "2026-09-20",
+      "photos": [
+        "/img/gallery/p5_1.jpg",
+        "/img/gallery/p5_2.jpg",
+        "/img/gallery/p5_3.jpg",
+        "/img/gallery/p5_4.jpg",
+        "/img/gallery/p5_5.jpg",
+        "/img/gallery/p5_6.jpg"
+      ]
+    },
+    {
+      "title": "유니버셜프로젝트2 어썸리빙",
+      "date": "2026-09-20",
+      "photos": [
+        "/img/gallery/p6_3.jpg",
+        "/img/gallery/p6_1.jpg",
+        "/img/gallery/p6_2.jpg",
+        "/img/gallery/p6_4.jpg",
+        "/img/gallery/p6_5.jpg",
+        "/img/gallery/p6_6.jpg"
+      ]
+    },
+    {
+      "title": "주일 스케치",
+      "date": "2026-08-30",
+      "photos": [
+        "/img/gallery/p7_1.jpg",
+        "/img/gallery/p7_2.jpg",
+        "/img/gallery/p7_3.jpg",
+        "/img/gallery/p7_4.jpg",
+        "/img/gallery/p7_5.jpg",
+        "/img/gallery/p7_6.jpg"
+      ]
+    }
+  ]
+}
